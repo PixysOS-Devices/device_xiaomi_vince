@@ -3,7 +3,7 @@
     "remote":      "github",
     "repository":  "thephotogenicbug/vendor_xiaomi_4.9",
     "target_path": "vendor/xiaomi",
-    "branch":      "evo-4.9"
+    "branch":      ""
   },
   {
     "remote":      "github",
