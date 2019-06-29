@@ -24,6 +24,9 @@ $(call inherit-product, device/xiaomi/vince/device.mk)
 # Inherit some common PIXYS stuff.
 $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 
+#Bootanimation
+TARGET_BOOT_ANIMATION_RES := 1080
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vince
 PRODUCT_NAME := pixys_vince
