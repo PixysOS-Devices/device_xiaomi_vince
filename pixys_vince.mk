@@ -46,5 +46,5 @@ BUILD_FINGERPRINT := "xiaomi/vince/vince:8.1.0/OPM1.171019.019/V10.0.4.0.OEGMIFH
 
 
 export PIXYS_BUILD_TYPE=OFFICIAL
-``export DEVICE_MAINTAINERS=Naveen Achari
+``export DEVICE_MAINTAINERS="Naveen Achari"
 
